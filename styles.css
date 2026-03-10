@@ -8,9 +8,9 @@ body {
 
     padding: 0; 
 
-    background-color: palevioletred
+    background-color: #f9f9f9
 
-    color; lilac:
+    color; #333;
 
 } 
 
@@ -20,7 +20,7 @@ body {
 
 nav { 
 
-    background-color: palevioletred
+    background-color: #333;
 
     padding; 15px 
 
@@ -47,8 +47,6 @@ nav a:hover {
     text-decoration: underline; 
 
 } 
-
- 
 
 /* Headers */ 
 
@@ -84,9 +82,9 @@ main {
 
 footer { 
 
-    background-color: palevioletred
+    background-color: #333;
 
-    color; palevioletred
+    color; white;
 
     text-align: center; 
 
