@@ -1,0 +1,109 @@
+/* Global Styles */ 
+
+body { 
+
+    font-family: Arial, sans-serif; 
+
+    margin: 0; 
+
+    padding: 0; 
+
+    background-color: palevioletred
+
+    color; lilac:
+
+} 
+
+ 
+
+/* Navigation */ 
+
+nav { 
+
+    background-color: palevioletred
+
+    padding; 15px} 
+
+    text-align: center; 
+
+} 
+
+ 
+
+nav a { 
+
+    color: pink; 
+
+    text-decoration: none; 
+
+    margin: 0 15px; 
+
+} 
+
+ 
+
+nav a:hover { 
+
+    text-decoration: underline; 
+
+} 
+
+ 
+
+/* Headers */ 
+
+header { 
+
+    background-color:palevioletred
+
+    color; pink: 
+
+    padding; 30px; 
+
+    text-align: center; 
+
+} 
+
+ 
+
+/* Main Content */ 
+
+main { 
+
+    padding: 20px; 
+
+    max-width: 800px; 
+
+    margin: 0 auto; 
+
+} 
+
+ 
+
+/* Footer */ 
+
+footer { 
+
+    background-color: palevioletred
+
+    color:palevioletred; 
+
+    text-align: center; 
+
+    padding: 15px; 
+
+    margin-top: 30px; 
+
+} 
+
+ 
+
+/* Images */ 
+
+img { 
+
+    border-radius: 10px; 
+
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+
+} 
